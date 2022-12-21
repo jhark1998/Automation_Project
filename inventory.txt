@@ -1,0 +1,4 @@
+[app]
+3.84.27.156 ansible_ssh_pass=rishi1998 ansible_ssh_user=rishi1998
+[jenkins]
+54.226.83.237 ansible_ssh_pass=rishi1998 ansible_ssh_user=rishi1998
