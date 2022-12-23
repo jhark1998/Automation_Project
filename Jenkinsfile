@@ -4,7 +4,7 @@ pipeline{
         text(name: "branch", defaultValue: "main")
     }
     environment {
-        AWS_DEFAULT_REGION="ap-south-1"
+        AWS_DEFAULT_REGION="us-east-1"
     }
     stages{
         stage('GIT Checkout'){
